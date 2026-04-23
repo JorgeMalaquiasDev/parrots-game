@@ -1,5 +1,9 @@
 # 🧠 Parrot Memory Game
 
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 🇺🇸 A simple and interactive memory game built with HTML, CSS and JavaScript  
 🔽 🇧🇷 Versão em português abaixo
 
@@ -7,7 +11,7 @@
 
 This project is a classic memory matching game where players test their concentration and recall skills.
 
-- 🃏 Choose the number of cards via a pop-up at the start
+- 🃏 Choose the number of cards through a pop-up at the start
 - ⏱️ Track your performance with a timer displayed on the top-right corner
 - 🧩 Match all pairs to complete the game
 - 🦜 Cards feature parrots with different expressions
@@ -36,19 +40,37 @@ This project was developed to practice and reinforce:
 
 ---
 
-## 🛠️ Technologies Used
-
-- HTML5  
-- CSS3  s
-- JavaScript (Vanilla)  
-
----
-
 ## 📸 Game Preview
 
 | Start | Gameplay | Completed |
 |------|--------|-----------|
 | ![](./img/startExample.png) | ![](./img/gameplayExample.png) | ![](./img/endExample.png) |
+
+---
+
+## ▶️ How to Run
+
+**1. Clone this repository:**
+```bash
+git clone https://github.com/JorgeMalaquiasDev/parrots-game.git
+```
+**2. Open the project folder**
+
+**3. Run the project using one of the options:**
+- **Option 1: Open directly in browser**
+    - Open the index.html file in your browser
+- **Option 2: Using Live Server (recommended)**
+    - Install the Live Server extension in VS Code
+    - Right-click index.html
+    - Click "Open with Live Server"
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3
+- JavaScript (Vanilla)  
 
 ---
 
@@ -78,7 +100,7 @@ Um jogo da memória simples e interativo desenvolvido com **HTML, CSS e JavaScri
 
 Este projeto é um clássico jogo da memória onde o jogador testa sua concentração e capacidade de memorização.
 
-- 🃏 Escolha a quantidade de cartas através de um pop-up no início do jogo  
+- 🃏 Escolha a quantidade de cartas por meio de um pop-up no início do jogo  
 - ⏱️ Acompanhe seu desempenho com um cronômetro exibido no canto superior direito  
 - 🧩 Encontre todos os pares para completar o jogo  
 - 🦜 As cartas possuem ilustrações de papagaios com diferentes expressões  
@@ -104,6 +126,24 @@ Este projeto foi desenvolvido com o objetivo de praticar e reforçar:
 - Cronômetro em tempo real  
 - Interface simples e responsiva  
 - Tema visual leve com papagaios expressivos  
+
+---
+
+## ▶️ Como executar
+
+**1. Clone o repositório:**
+```bash
+git clone https://github.com/JorgeMalaquiasDev/parrots-game.git
+```
+**2. Abra a pasta do projeto**
+
+**3. Execute o projeto de uma das formas::**
+- **Opção 1: Abrir direto no navegador**
+    - Abra o arquivo index.html no navegador
+- **Opção 2: Usando Live Server (recomendado)**
+    - Instale a extensão Live Server no VS Code
+    - Clique com o botão direito no index.html
+    - Clique em "Open with Live Server"
 
 ---
 
