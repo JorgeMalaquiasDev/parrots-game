@@ -39,8 +39,16 @@ This project was developed to practice and reinforce:
 ## 🛠️ Technologies Used
 
 - HTML5  
-- CSS3  
+- CSS3  s
 - JavaScript (Vanilla)  
+
+---
+
+## 📸 Game Preview
+
+| Start | Gameplay | Completed |
+|------|--------|-----------|
+| ![](./img/startExample.png) | ![](./img/gameplayExample.png) | ![](./img/endExample.png) |
 
 ---
 
