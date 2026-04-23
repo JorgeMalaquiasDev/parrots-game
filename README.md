@@ -44,6 +44,20 @@ This project was developed to practice and reinforce:
 
 ---
 
+## 📦 Project Background
+
+This project was originally created in a previous GitHub account and later migrated and improved in this repository.
+
+---
+
+## 🎓 Learning Context
+
+This project was developed as part of my learning journey in front-end development.
+
+It focuses on applying core concepts such as DOM manipulation, dynamic rendering, and interactive UI behavior, while reinforcing fundamental web development principles.
+
+Although simple in scope, it reflects my effort to build solid foundations and continuously improve my development skills.
+
 ## 🇧🇷 Português
 
 ### 🧠 Jogo da Memória dos Papagaios
@@ -92,3 +106,17 @@ Este projeto foi desenvolvido com o objetivo de praticar e reforçar:
 - JavaScript (Vanilla)  
 
 ---
+
+### 📦 Histórico do Projeto
+
+Este projeto foi originalmente criado em uma conta anterior do GitHub e posteriormente migrado e aprimorado neste repositório.
+
+---
+
+### 🎓 Contexto de Aprendizado
+
+Este projeto foi desenvolvido como parte da minha jornada de aprendizado em desenvolvimento front-end.
+
+Ele tem como foco a aplicação de conceitos fundamentais como manipulação do DOM, renderização dinâmica e interatividade na interface, além de reforçar princípios essenciais de desenvolvimento web.
+
+Apesar de ter um escopo simples, reflete meu esforço em construir uma base sólida e evoluir continuamente como desenvolvedor.
