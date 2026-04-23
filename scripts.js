@@ -5,8 +5,8 @@ function comparador() {
 	return Math.random() - 0.5; 
 }
 
-let cartasTotais = ["/img/bobrossparrot.gif", "/img/explodyparrot.gif", "/img/fiestaparrot.gif", "/img/metalparrot.gif", "/img/revertitparrot.gif",
-"/img/tripletsparrot.gif", "/img/unicornparrot.gif"];
+let cartasTotais = ["img/bobrossparrot.gif", "img/explodyparrot.gif", "img/fiestaparrot.gif", "img/metalparrot.gif", "img/revertitparrot.gif",
+"img/tripletsparrot.gif", "img/unicornparrot.gif"];
 cartasTotais.sort(comparador);
 
 
@@ -28,7 +28,7 @@ for(let i=0;i<numeroDeCartas;i++){
 		<img src=${cartasDoJogo[i]} class="figura">
 	</div>
 	<div class="front">
-		<img src="/img/front.png">
+		<img src="img/front.png">
 	</div>
 </li>`
 }
